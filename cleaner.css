@@ -4,7 +4,6 @@
     border-radius: 4px;
     color: gray;
     font-family: monospace;
-    transition: all 0.25s ease-out;
 }
 
 .cleaner:focus {
@@ -14,4 +13,24 @@
 
 .cleaner:active{
     color: black;
+}
+
+.cleaner-link {
+    color: white;
+    font-family: sans-serif;
+}
+
+.cleaner-link:visited {
+    color: white;
+}
+
+.cleaner-link:hover {
+    color: gray;
+}
+
+.cleaner-list {
+    color: white;
+    font-family: sans-serif;
+    list-style: none;
+    padding-inline-start: 0px;
 }
