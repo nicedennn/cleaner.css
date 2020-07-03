@@ -1,0 +1,19 @@
+{
+  "name": "cleaner-css",
+  "version": "1.0.0",
+  "description": "A tiny .css file to clean stock inputs and more when starting a new project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicedennn/cleaner.css.git"
+  },
+  "author": "Robin Beaurepaire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicedennn/cleaner.css/issues"
+  },
+  "homepage": "https://github.com/nicedennn/cleaner.css#readme"
+}
