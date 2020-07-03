@@ -1,6 +1,6 @@
 {
   "name": "cleaner-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny .css file to clean stock inputs and more when starting a new project.",
   "main": "index.js",
   "scripts": {
