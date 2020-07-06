@@ -7,6 +7,8 @@ https://nicedennn.github.io/cleaner.css/
 No blue glow or outline when the input is active or unpleasant gradient.
 I made it for myself but maybe it could help someone else.
 
-Just add the class "cleaner" to your input to clean it.
+Add the class "cleaner" to your input to clean it.
 
 NB : Cleaner.css doesn't work on the "Checkbox", "Radio" and "Range" inputs, because they need an additionnal span etc to make a custom style.
+
+#### Update : You now can add the class "cleaner-link" or "cleaner-list" to clean links and lists.
